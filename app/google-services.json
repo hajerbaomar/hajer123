@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "66222624001",
+    "project_id": "f19285hajerclass",
+    "storage_bucket": "f19285hajerclass.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66222624001:android:e5b83b1c94c23acf3b5f00",
+        "android_client_info": {
+          "package_name": "com.example.a19f19285hajerclass"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGWYn2vAdKFr5UCeCgXb4JHu8su5DuMfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
